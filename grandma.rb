@@ -2,11 +2,7 @@
 
 def speak_to_grandma(phrase)
   if phrase == "I LOVE YOU GRANDMA!"
-    print "NO, NOT SINCE 1938!"
-  else phrase == phrase.downcase
-    print "HUH?! SPEAK UP, SONNY!"
-  elsif phrase == "I LOVE YOU GRANDMA!"
-    return "I LOVE YOU TOO PUMPKIN"
+      "I LOVE YOU TOO PUMPKIN!"
 end
 
 # Whatever you say to grandma, she should respond with
