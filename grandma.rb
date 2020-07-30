@@ -1,7 +1,7 @@
 # Write a speak_to_grandma method.
 
 def speak_to_grandma(phrase)
-  if phrase == 
+  if phrase == "I LOVE YOU GRANDMA!"
     print "NO, NOT SINCE 1938!"
   else phrase == phrase.downcase
     print "HUH?! SPEAK UP, SONNY!"
